@@ -1,31 +1,38 @@
 {
     "FilmesEmCartaz":[
         {
-        "id": 1,
-        "filme_nome":"filme 1",
-        "nome": "Adão Negro",
-        "direção": "Jaume Collet-Serra",
-        "ano de lançamento": 2022
-        },
-        {
-            "id": 2,
+
+            "id": 1,
             "filme_nome":"filme 2",
-            "nome": "Pantera Negra: Wakanda Para Sempre",
-            "direção":"Ryan Coogler",
+            "nome": "Thor: Amor e Trovão",
+            "direção":"Taika Waititi",
             "ano de lançamento": 2022
             },
+
+
+        {
+        "id": 2,
+        "filme_nome":"filme 1",
+        "nome": "Sonic 2",
+        "direção": "Jeff Fowler",
+        "ano de lançamento": 2022
+        },
+
+        
             {
                 "id": 3,
                 "filme_nome":"filme 3",
-                "nome": "A Mulher Rei",
-                "direção":"Gina Prince-Bythewood",
+                "nome": "Batmam",
+                "direção":" Matt Reeves",
                 "ano de lançamento": 2022
                 },
+
+
                 {
                     "id": 4,
                     "filme_nome":"filme 4",
-                    "nome": "One Piece Film - Red",
-                    "direção":"Goro Taniguchi",
+                    "nome": "Pinóquio",
+                    "direção":"Robert Zemeckis",
                     "ano de lançamento": 2022
                     }
     ],
@@ -33,28 +40,28 @@
         {
             "id": 1,
              "Produto_nome": "Coca-Cola",
-             "valor": "12,50 reais",
-             "ml": "1L"
+             "valor": "10,00 reais",
+             "ml": "1,5L"
         },
             {
                 "id": 2,
                  "Produto_nome": "Pipoca",
-                 "valor": "8 reais",
-                 "quantidade": "200g"
+                 "valor": "8,99 reais",
+                 "quantidade": "300g"
             },
             {
                 "id": 3,
-                 "Produto_nome": "Promoção",
-                 "combo":"Coca-Cola,Pipoca,Brinde",
-                 "valor": "40 reais",
-                 "brinde": "Cartaz"
+                 "Produto_nome": "Promoção-combo",
+                 "combo":"Coca-Cola, Pipoca, Brinde",
+                 "valor": "44,99 reais",
+                 "brinde": "Pôster"
             },
             {
                 "id": 4,
                  "Pro_nome": "Mega-Combo",
                  "combo":"Action-Figure, Coca-Cola + Pipoca, Ingresso, Brinde",
-                 "valor": "300 reais",
-                 "brinde": "Camisa"
+                 "valor": "299,99 reais",
+                 "brinde": "Camisa Personalizada"
             }
     ],
 
@@ -62,7 +69,7 @@
         {
             "id": 1,
             "Cinema_nome":"Cinesystem Bangu Shopping",
-             "localização": " R. Fonseca, 240 - Bangu, Rio de Janeiro - RJ, 21820-005",
+             "localização": " Rua Fonseca, 240 - Bangu, Rio de Janeiro - RJ, 21820-005",
              "assentos": "20 comuns, 10 vips, 10 preferencias"
         },
         {
