@@ -3,7 +3,7 @@
         {
 
             "id": 1,
-            "filme_nome":"filme 1",
+            "filme_nome":"filme 2",
             "nome": "Thor: Amor e Trovão",
             "direção":"Taika Waititi",
             "ano de lançamento": 2022
@@ -12,7 +12,7 @@
 
         {
         "id": 2,
-        "filme_nome":"filme 2",
+        "filme_nome":"filme 1",
         "nome": "Sonic 2",
         "direção": "Jeff Fowler",
         "ano de lançamento": 2022
