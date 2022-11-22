@@ -1,0 +1,87 @@
+{
+    "FilmesEmCartaz":[
+        {
+        "id": 1,
+        "filme_nome":"filme 1",
+        "nome": "Adão Negro",
+        "direção": "Jaume Collet-Serra",
+        "ano de lançamento": 2022
+        },
+        {
+            "id": 2,
+            "filme_nome":"filme 2",
+            "nome": "Pantera Negra: Wakanda Para Sempre",
+            "direção":"Ryan Coogler",
+            "ano de lançamento": 2022
+            },
+            {
+                "id": 3,
+                "filme_nome":"filme 3",
+                "nome": "A Mulher Rei",
+                "direção":"Gina Prince-Bythewood",
+                "ano de lançamento": 2022
+                },
+                {
+                    "id": 4,
+                    "filme_nome":"filme 4",
+                    "nome": "One Piece Film - Red",
+                    "direção":"Goro Taniguchi",
+                    "ano de lançamento": 2022
+                    }
+    ],
+    "Produtos": [
+        {
+            "id": 1,
+             "Produto_nome": "Coca-Cola",
+             "valor": "12,50 reais",
+             "ml": "1L"
+        },
+            {
+                "id": 2,
+                 "Produto_nome": "Pipoca",
+                 "valor": "8 reais",
+                 "quantidade": "200g"
+            },
+            {
+                "id": 3,
+                 "Produto_nome": "Promoção",
+                 "combo":"Coca-Cola,Pipoca,Brinde",
+                 "valor": "40 reais",
+                 "brinde": "Cartaz"
+            },
+            {
+                "id": 4,
+                 "Pro_nome": "Mega-Combo",
+                 "combo":"Action-Figure, Coca-Cola + Pipoca, Ingresso, Brinde",
+                 "valor": "300 reais",
+                 "brinde": "Camisa"
+            }
+    ],
+
+    "Cinemas":[
+        {
+            "id": 1,
+            "Cinema_nome":"Cinesystem Bangu Shopping",
+             "localização": " R. Fonseca, 240 - Bangu, Rio de Janeiro - RJ, 21820-005",
+             "assentos": "20 comuns, 10 vips, 10 preferencias"
+        },
+        {
+            "id": 2,
+            "Cinema_nome":"Kinoplex West Shopping",
+             "localização": " Estrada do Mendanha, 401 - 550 - Campo Grande, Rio de Janeiro - RJ, 23087-284",
+             "assentos": "40 comuns, 40 vips, 40 preferencias"
+        },
+        {
+            "id": 3,
+            "Cinema_nome":"Cinemark Carioca Shopping",
+             "localização": "Estrada Vicente de Carvalho, 909 - Loja 111 2º Pavimento Vila Kosmos - Vila da Penha, Rio de Janeiro, 21210-000",
+             "assentos": "43 comuns, 43 vips, 43 preferencias"
+        },
+        {
+            "id": 4,
+            "Cinema_nome":"UCI Park Shopping Campo Grande",
+             "localização": "Estrada do Monteiro, 1200 - Campo Grande, Rio de Janeiro - RJ, 23045-830",
+             "assentos": "48 comuns, 48 vips, 48 preferencias"
+        }
+    ]
+}
